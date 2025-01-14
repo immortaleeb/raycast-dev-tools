@@ -8,3 +8,5 @@ Current supported tools:
 - Generate multiple v4 UUIDs
 - Base64 encode a string
 - Base64 decode a string
+- URL encode a string
+- URL decode a string

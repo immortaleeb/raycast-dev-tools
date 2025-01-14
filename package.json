@@ -30,6 +30,18 @@
       "title": "Base64 Decode",
       "description": "Base64 decodes your clipboard",
       "mode": "view"
+    },
+    {
+      "name": "url-encode",
+      "title": "URL Encode",
+      "description": "URL encode your clipboard",
+      "mode": "view"
+    },
+    {
+      "name": "url-decode",
+      "title": "URL Decode",
+      "description": "URL decodes your clipboard",
+      "mode": "view"
     }
   ],
   "dependencies": {
